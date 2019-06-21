@@ -244,14 +244,14 @@ left:-69px;
 } 
 
 div#urltext, div#inner div#content a:link, div#inner div#content a:visited, div#inner a:hover, div#inner a:hover span {
-color:#ff7c11;
+color:#2c7f03;
 }
 
 div#content div#titlebar {
 border: 1px solid #222222;
 background: #000;
 font-weight: normal;
-color:  #ff7c11;
+color:  #2c7f03;
 }
 
 div#content {
@@ -262,7 +262,7 @@ padding-right:8px;
 .titleblock {
 font-family:verdana, helvetica, sans serif;
 font-size:12px;
-color:#ff7c11;
+color:#2c7f03;
 font-weight:;
 margin-right:6px;
 margin-top:10px;
@@ -273,7 +273,7 @@ padding:4px;
 }
 
 .titleblock span {
-color:#ff7c11;
+color:#2c7f03;
 }
 
 #urltext a:link {
