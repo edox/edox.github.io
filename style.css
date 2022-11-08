@@ -58,7 +58,7 @@ text-align:center;
 width:500px;
 }
 
-div#text1, div#text2, div#text3, div#text4, div#text5, div#text6, div#text7 {
+div#text1, div#text2, div#text3, div#text4, div#text5, div#text6, div#text7, div#text8 {
 color:#222222;
 font-family:verdana, helvetica, sans serif;
 position:absolute;
@@ -106,6 +106,12 @@ top:254px;
 left:330px;
 }
 
+div#text8 {
+font-size:28px;
+top:300px;
+left:330px;
+}
+
 div#text404 {
 color:#ffffff;
 font-family:verdana, helvetica, sans serif;
@@ -145,6 +151,11 @@ left: 0px;
 }
 
 div#text7 a:hover span {
+top: -4px; 
+left: 0px; 
+}
+
+div#text8 a:hover span {
 top: -4px; 
 left: 0px; 
 }
